@@ -1,0 +1,11 @@
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/bin/Debug/netcoreapp2.1/GradeBook.deps.json
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/bin/Debug/netcoreapp2.1/GradeBook.runtimeconfig.json
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/bin/Debug/netcoreapp2.1/GradeBook.runtimeconfig.dev.json
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/bin/Debug/netcoreapp2.1/GradeBook.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/bin/Debug/netcoreapp2.1/GradeBook.pdb
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/obj/Debug/netcoreapp2.1/GradeBook.csprojAssemblyReference.cache
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/obj/Debug/netcoreapp2.1/GradeBook.csproj.CoreCompileInputs.cache
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/obj/Debug/netcoreapp2.1/GradeBook.AssemblyInfoInputs.cache
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/obj/Debug/netcoreapp2.1/GradeBook.AssemblyInfo.cs
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/obj/Debug/netcoreapp2.1/GradeBook.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/src/GradeBook/obj/Debug/netcoreapp2.1/GradeBook.pdb

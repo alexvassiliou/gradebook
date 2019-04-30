@@ -1,0 +1,17 @@
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.deps.json
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.runtimeconfig.json
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.runtimeconfig.dev.json
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.Tests.pdb
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.csprojAssemblyReference.cache
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.csproj.CoreCompileInputs.cache
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.AssemblyInfoInputs.cache
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.AssemblyInfo.cs
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.pdb
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.dll
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/bin/Debug/netcoreapp2.1/GradeBook.pdb
+/Users/alexvassiliou/code/alexvassiliou/gradebook/test/GradeBook.Tests/obj/Debug/netcoreapp2.1/GradeBook.Tests.csproj.CopyComplete
